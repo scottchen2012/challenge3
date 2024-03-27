@@ -9,4 +9,4 @@ I created a a payroll manager to add employees and their salary to the tracker. 
 
 ## How to use the website
 
-Once the website is loaded, enter the employee first name, last name and salary number.
+Once the website is loaded, click the "add employee" button to enter the employee first name, last name and salary number.
